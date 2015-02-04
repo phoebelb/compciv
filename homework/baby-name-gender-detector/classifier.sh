@@ -6,7 +6,6 @@ echo "Please input at least one name"
 fi
 
 for name in "$@"; do
-echo "What's in a $name?"
 name_matches=$(cat $datafile | grep "$name,")
 m_count=0
 f_count=0
