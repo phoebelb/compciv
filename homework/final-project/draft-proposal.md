@@ -1,5 +1,5 @@
-Carolina Wilson & Phoebe Barghouty 
-Comp Civ Final Project Proposal 
+#Carolina Wilson & Phoebe Barghouty 
+#Comp Civ Final Project Proposal 
 
 BizNews Aggregator
 
